@@ -1,4 +1,5 @@
-#To-Do-List
 
-My first project with react.
-A basic to-do-list.
+# To-Do-List
+
+My first React project: a simple to-do list app for managing tasks with user-friendly features and a clean interface.
+

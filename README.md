@@ -1,4 +1,4 @@
-<h1 align="center" id="title">To-Do List</h1>
+<h1 align="center" id="title">TaskFlow</h1>
 
 <p align="center"><img src="https://socialify.git.ci/JAE-exe/to-do-list/image?font=Source%20Code%20Pro&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;theme=Dark" alt="project-image"></p>
 
@@ -18,4 +18,3 @@ Technologies used in the project:
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
-
